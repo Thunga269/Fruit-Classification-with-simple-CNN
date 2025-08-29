@@ -1,4 +1,6 @@
-# Fruit classification using CNN
+# Fruit classification
+Building CNN model using Tensorflow
 
-# Dataset
+Dataset
+
 [Link](https://www.kaggle.com/datasets/mauriciofigueiredo/amazon-fruits-small)
